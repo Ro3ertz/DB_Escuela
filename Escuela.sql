@@ -1,3 +1,4 @@
+--Escuela
 CREATE TYPE genero AS ENUM ('Masculino','Femenino');
 
 CREATE TABLE personas(
